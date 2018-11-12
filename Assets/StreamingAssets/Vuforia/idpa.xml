@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="hashdh" size="0.050000 0.021893" />
+    <ImageTarget name="tobitimbw" size="0.100000 0.067219" />
+    <ImageTarget name="poc" size="0.050000 0.048462" />
+    <ImageTarget name="IMG" size="0.120000 0.185302" />
+    <ImageTarget name="idpa" size="0.200000 0.204187" />
+  </Tracking>
+</QCARConfig>
